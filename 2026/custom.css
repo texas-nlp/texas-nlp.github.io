@@ -94,12 +94,12 @@ body {
 }
 
 main a {
-  color: #7a0000;
+  color: DarkRed;
   text-decoration: none;
 }
 
 main a:hover {
-  color: #500000;
+  color: #b50000;
 }
 
 .featurette-divider {
