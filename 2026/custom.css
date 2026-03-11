@@ -128,3 +128,7 @@ main a:hover {
   height: 400px;
   overflow: hidden;
 }
+
+.paper {
+  color: DarkRed;
+}
